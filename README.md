@@ -1,17 +1,21 @@
+![Manintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub last commit (master)](https://img.shields.io/github/last-commit/isaaclo97/MPIF)
+![Starts](https://img.shields.io/github/stars/isaaclo97/MPIF.svg)
+
 # A Variable Neighborhood Search for the Median Location Problem with Interconnected Facilities
 
 The p-Median problem has been widely studied in the literature. However, there are several variants that include new constraints to the classical problem that make it more realistic. In this work, we study the variant that considers interconnected facilities, i.e., the distances between each pair of facilities is less than or equal to a certain threshold r. This optimization problem, usually known as Median Location Problem with Interconnected Facilities (MPIF), consists in locating a set of interconnected facilities to minimize the distance between those interconnected facilities and the demand points. The large variety of real-world applications that fit into this model makes it attractive to design an algorithm able to solve the problem efficiently. To this end, a procedure based on the Variable Neighborhood Search methodology is designed and implemented by using problem-dependent neighborhoods. Experimental results show that our proposal is able to reach most of the optimal solutions when they are known. Additionally, it outperforms previous state-of-the-art methods in those instances where the optima are unknown. These results are further confirmed by conducting non-parametrical statistical tests.
 
-Journal: International Transactions in Operational Research
-Paper link: https://doi.org/10.1111/itor.13468
-Impact Factor: 3.1 
-Area: Operations Research & Management Science
-Quartil: Q2 - 32/86
+- Journal: International Transactions in Operational Research
+- Impact Factor: 3.1 
+- Paper link: https://doi.org/10.1111/itor.13468
+- Area: Operations Research & Management Science
+- Quartil: Q2 - 32/86
 
 ## Datasets
 
-* [pmed](./instnaces/pmed/)
-* [kmedian](./instnaces/kmedian/)
+* [pmed](./instances/pmed/)
+* [kmedian](./instances/kmedian/)
 
 
 All txt format instances can be found in instances folder.
