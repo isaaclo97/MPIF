@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com.grafo.MPIF:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="153931da-7ce1-4594-a78e-e14512028f40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\isaac\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="1isCdJiOmK3xcJB4P7LoKUWm69G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/isaac/Documents/GitHub/MPIF/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isaac\Documents\GitHub\MPIF-and-CPIF\MPIFFinalCode\src\main\java\localSearch" />
+      <recent name="C:\Users\isaac\Documents\GitHub\MPIF-and-CPIF\MPIFFinalCode\src\main\java\algorithms" />
+      <recent name="C:\Users\isaac\Documents\GitHub\MPIF-and-CPIF\MPIFFinalCode\src\main\java\constructives" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms" />
+      <recent name="localSearch" />
+      <recent name="structure" />
+      <recent name="constructives" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="com.grafo.MPIF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="153931da-7ce1-4594-a78e-e14512028f40" name="Default Changelist" comment="" />
+      <created>1602687000976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602687000976</updated>
+      <workItem from="1602687003587" duration="407000" />
+      <workItem from="1602754067817" duration="1561000" />
+      <workItem from="1603111249695" duration="636000" />
+      <workItem from="1603128548572" duration="149000" />
+      <workItem from="1612358084466" duration="1554000" />
+      <workItem from="1612460941693" duration="44000" />
+      <workItem from="1612956625561" duration="11596000" />
+      <workItem from="1612974025573" duration="1572000" />
+      <workItem from="1613145397067" duration="19995000" />
+      <workItem from="1613301130542" duration="13254000" />
+      <workItem from="1613466431630" duration="5952000" />
+      <workItem from="1613667103211" duration="1405000" />
+      <workItem from="1613732476729" duration="8871000" />
+      <workItem from="1613996141752" duration="13942000" />
+      <workItem from="1614070957956" duration="6501000" />
+      <workItem from="1614188685720" duration="737000" />
+      <workItem from="1614192595481" duration="161000" />
+      <workItem from="1614708441607" duration="1502000" />
+      <workItem from="1614771051259" duration="5256000" />
+      <workItem from="1614784744810" duration="6615000" />
+      <workItem from="1614854250080" duration="9900000" />
+      <workItem from="1615455474248" duration="11831000" />
+      <workItem from="1615541030454" duration="663000" />
+      <workItem from="1615891384232" duration="7339000" />
+      <workItem from="1615979699244" duration="35022000" />
+      <workItem from="1616318875912" duration="884000" />
+      <workItem from="1633271672611" duration="1275000" />
+      <workItem from="1633341914838" duration="2563000" />
+      <workItem from="1633426295915" duration="3755000" />
+      <workItem from="1633536033013" duration="895000" />
+      <workItem from="1633596402163" duration="9225000" />
+      <workItem from="1634114068525" duration="6374000" />
+      <workItem from="1634121778505" duration="6417000" />
+      <workItem from="1635934356856" duration="20000" />
+      <workItem from="1642423266015" duration="19000" />
+      <workItem from="1642795182595" duration="138000" />
+      <workItem from="1663764300790" duration="9589000" />
+      <workItem from="1663842722743" duration="3289000" />
+      <workItem from="1664456759063" duration="3149000" />
+      <workItem from="1664463524231" duration="670000" />
+      <workItem from="1664526689485" duration="3563000" />
+      <workItem from="1664629693521" duration="2209000" />
+      <workItem from="1664700832988" duration="1206000" />
+      <workItem from="1664815315430" duration="7099000" />
+      <workItem from="1664874535657" duration="5989000" />
+      <workItem from="1664925862257" duration="1134000" />
+      <workItem from="1664964259725" duration="1544000" />
+      <workItem from="1665007662222" duration="654000" />
+      <workItem from="1665044796376" duration="12056000" />
+      <workItem from="1665228334575" duration="300000" />
+      <workItem from="1665316486859" duration="603000" />
+      <workItem from="1665651541344" duration="15802000" />
+      <workItem from="1665695751336" duration="661000" />
+      <workItem from="1665742180359" duration="3363000" />
+      <workItem from="1665829179792" duration="5162000" />
+      <workItem from="1665917883876" duration="4898000" />
+      <workItem from="1666000584656" duration="464000" />
+      <workItem from="1666001071279" duration="1880000" />
+      <workItem from="1666079973029" duration="22943000" />
+      <workItem from="1666118300920" duration="6414000" />
+      <workItem from="1666165774263" duration="8491000" />
+      <workItem from="1666260675020" duration="3065000" />
+      <workItem from="1666341064229" duration="595000" />
+      <workItem from="1666358294469" duration="1188000" />
+      <workItem from="1666454015594" duration="331000" />
+      <workItem from="1666616252534" duration="781000" />
+      <workItem from="1666868432462" duration="888000" />
+      <workItem from="1666948957841" duration="27000" />
+      <workItem from="1667213912746" duration="3925000" />
+      <workItem from="1687423522071" duration="595000" />
+      <workItem from="1687969382926" duration="2000" />
+      <workItem from="1687970343891" duration="196000" />
+      <workItem from="1689671214411" duration="1462000" />
+      <workItem from="1689758117557" duration="9786000" />
+      <workItem from="1689848244415" duration="16482000" />
+      <workItem from="1690202520803" duration="35000" />
+      <workItem from="1690202711030" duration="1379000" />
+      <workItem from="1690208650262" duration="596000" />
+      <workItem from="1690273452929" duration="2625000" />
+      <workItem from="1690356835115" duration="313000" />
+      <workItem from="1690456859322" duration="2081000" />
+      <workItem from="1690556985789" duration="1287000" />
+      <workItem from="1690714696455" duration="654000" />
+      <workItem from="1694781008215" duration="403000" />
+      <workItem from="1706895901754" duration="2163000" />
+      <workItem from="1707092223055" duration="600000" />
+      <workItem from="1707215286685" duration="2000" />
+      <workItem from="1707216454920" duration="599000" />
+      <workItem from="1707236379963" duration="594000" />
+      <workItem from="1707297010544" duration="602000" />
+      <workItem from="1713532879588" duration="1629000" />
+      <workItem from="1713534565912" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="instance.getMapValues()[i]" />
+        <watch expression="updateFO" />
+        <watch expression="remaining" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
