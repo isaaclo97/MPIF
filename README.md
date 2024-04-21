@@ -22,8 +22,11 @@ All txt format instances can be found in instances folder.
 
 ## Repository folders
 
-Results folder has per instance the objective function and selected nodes for our proposal, exact and previous approaches.
-
+- code:source code of the proposal.
+- instances: Within it, there are 2 folders, one with the pmed instances (120) and the other with the kmedian instances (108).
+- results.xlsx: A file containing 3 sheets, the first for the exact values, the second for the pmed instances, and the third for the kmedian instances. Each sheet has per instance the objective value, computational time, and comparison with the previous algorithm Cherkesly et al., showing the deviation and number of best solutions.
+- selected.xlsx: Shows for the pmed and kmedian instances the nodes chosen by our proposal and Cherkesly et al.
+- MPIF.jar: It is the final executable of the application; further information is provided below.
 
 ## Executable
 
