@@ -54,16 +54,57 @@ Please cite our paper if you use it in your own work:
 
 Bibtext
 ```
+@article{LozanoOsorio24,
+	author = {Lozano-Osorio, I. and Sánchez-Oro, J. and López-Sánchez, A.D. and Duarte, A.},
+	title = {A variable neighborhood search for the median location problem with interconnected facilities},
+	journal = {International Transactions in Operational Research},
+	volume = {n/a},
+	number = {n/a},
+	pages = {},
+	keywords = {facility location, p$p$-median problem, interconnected facilities, variable neighborhood search},
+	doi = {https://doi.org/10.1111/itor.13468},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.13468},
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/itor.13468},
+	abstract = {Abstract The p\$p\$-median problem has been widely studied in the literature. However, there are several variants that include new constraints to the classical problem that make it more realistic. In this work, we study the variant that considers interconnected facilities, that is, the distances between each pair of facilities are less than or equal to a certain threshold r\$r\$. This optimization problem, usually known as the median location problem with interconnected facilities, consists of locating a set of interconnected facilities to minimize the distance between those interconnected facilities and the demand points. The large variety of real-world applications that fit into this model makes it attractive to design an algorithm able to solve the problem efficiently. To this end, a procedure based on the variable neighborhood search methodology is designed and implemented by using problem-dependent neighborhoods. Experimental results show that our proposal is able to reach most of the optimal solutions when they are known. Additionally, it outperforms previous state-of-the-art methods in those instances where the optima are unknown. These results are further confirmed by conducting nonparametrical statistical tests.}
+}
 ```
 
-MDPI and ACS Style
+RIS
 ```
+TY  - JOUR
+T1  - A variable neighborhood search for the median location problem with interconnected facilities
+AU  - Lozano-Osorio, I.
+AU  - Sánchez-Oro, J.
+AU  - López-Sánchez, A.D.
+AU  - Duarte, A.
+Y1  - 2024/04/24
+PY  - 2024
+DA  - 2024/04/24
+DO  - https://doi.org/10.1111/itor.13468
+T2  - International Transactions in Operational Research
+JF  - International Transactions in Operational Research
+JO  - International Transactions in Operational Research
+JA  - Intl. Trans. in Op. Res.
+VL  - n/a
+IS  - n/a
+KW  - facility location
+KW  - p$p$-median problem
+KW  - interconnected facilities
+KW  - variable neighborhood search
+PB  - John Wiley & Sons, Ltd
+SN  - 0969-6016
+UR  - https://doi.org/10.1111/itor.13468
+Y2  - 2024/04/25
+N2  - Abstract The p$p$-median problem has been widely studied in the literature. However, there are several variants that include new constraints to the classical problem that make it more realistic. In this work, we study the variant that considers interconnected facilities, that is, the distances between each pair of facilities are less than or equal to a certain threshold r$r$. This optimization problem, usually known as the median location problem with interconnected facilities, consists of locating a set of interconnected facilities to minimize the distance between those interconnected facilities and the demand points. The large variety of real-world applications that fit into this model makes it attractive to design an algorithm able to solve the problem efficiently. To this end, a procedure based on the variable neighborhood search methodology is designed and implemented by using problem-dependent neighborhoods. Experimental results show that our proposal is able to reach most of the optimal solutions when they are known. Additionally, it outperforms previous state-of-the-art methods in those instances where the optima are unknown. These results are further confirmed by conducting nonparametrical statistical tests.
+ER  - 
 ```
 
 AMA Style
 ```
+Lozano-Osorio I, Sánchez-Oro J, López-Sánchez AD, Duarte A. A variable neighborhood search for the median location problem with interconnected facilities. International Transactions in Operational Research. doi:10.1111/itor.13468
 ```
 
 Chicago/Turabian Style
 ```
+Lozano-Osorio, I., J. Sánchez-Oro, A. D. López-Sánchez, and A. Duarte. ‘A Variable Neighborhood Search for the Median Location Problem with Interconnected Facilities’. International Transactions in Operational Research. https://doi.org/10.1111/itor.13468.
 ```
